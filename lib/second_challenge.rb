@@ -8,6 +8,5 @@ def second_challenge
 
   #code your solution here!
   array = []
-  groceries
-e
+  groceries.e
 end
